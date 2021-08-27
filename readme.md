@@ -11,5 +11,5 @@
 
 课程地址：https://space.bilibili.com/604515161/channel/seriesdetail?sid=222478
 
-[RLChina2021.png](RLChina2021.png)
+![RLChina2021.png](https://github.com/Wukwim/RLChina2021-summer-school/blob/main/RLChina2021.png)
 
